@@ -14,3 +14,6 @@ Demo video
 
 Login: guest   
 Password: guest
+
+To access this repository, please support by purchase a product on this link [https://mithnusa.odoo.com/shop/bundle-of-google-maps-addons-3](https://mithnusa.odoo.com/shop/bundle-of-google-maps-addons-3#attr=) 
+Thank you!
