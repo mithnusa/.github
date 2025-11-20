@@ -6,11 +6,11 @@ This repository provides powerful map integration modules for Odoo, enabling bus
 
 Google Maps integration brings the world's most popular mapping service into your Odoo environment. This module enables:
 
-- **Interactive Maps**: Display locations, routes, and geographic data with Google's familiar interface
-- **Geocoding & Reverse Geocoding**: Automatically convert addresses to coordinates and vice versa
+- **Interactive Maps**: Display locations and geographic data with Google's familiar interface
+- **Geocoding & Reverse Geocoding**: Automatically convert addresses to coordinates
 - **Location Management**: Enhanced partner/customer location management with visual map interface
-- **Route Planning**: Optimize delivery routes and calculate distances between locations
 - **Street View Integration**: Provide immersive street-level imagery for better location context
+- **Google Places Autocomplete**: Improve address input with predictive location suggestions
 
 Perfect for businesses requiring reliable, widely-recognized mapping services with comprehensive global coverage.
 
@@ -21,16 +21,14 @@ Perfect for businesses requiring reliable, widely-recognized mapping services wi
 Mapbox GL JS integration delivers cutting-edge, customizable mapping experiences with superior performance:
 
 - **Custom Map Styling**: Create unique, branded map designs that match your business identity
-- **Advanced Visualizations**: Display complex spatial data with heatmaps, clusters, and 3D elements
 - **High-Performance Rendering**: Handle large datasets with smooth, hardware-accelerated graphics
-- **Offline Capabilities**: Support for offline map tiles and reduced data consumption
 - **Rich Data Layers**: Overlay business intelligence and analytics directly on maps
 
 Ideal for businesses needing highly customized mapping solutions and advanced geospatial analytics.
 
 [![Integration of Mapbox GL JS in Odoo](https://img.youtube.com/vi/u_OwJeUZXfM/0.jpg)](https://youtu.be/u_OwJeUZXfM "Integration of Mapbox GL JS in Odoo")
 
-## Demo
+## Demos
 
 [Demo instance (v.19)](http://35.209.158.83:8069/)    
 Login: guest   
