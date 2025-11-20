@@ -1,19 +1,41 @@
-# Odoo and Google Maps integration
+# Odoo - Maps Integration
 
-This organisation focuses on the integration of Google Maps services in Odoo.
-The person behind this organisation is the same person who created and maintained the Odoo and Google Maps integration. https://github.com/gityopie/odoo-addons.
+This repository provides powerful map integration modules for Odoo, enabling businesses to leverage advanced mapping capabilities directly within their Odoo applications. Our solutions integrate two leading map providers to enhance location-based features and spatial data visualization.
 
-All of the Javascript part (view and widget) have been rewritten using the new Odoo Javascript Framework [OWL Framework](https://odoo.github.io/owl/)
+## Google Maps
 
-Demo video   
+Google Maps integration brings the world's most popular mapping service into your Odoo environment. This module enables:
 
-[![Integration of Google maps in Odoo 16 using OWL Framework](https://img.youtube.com/vi/cfJOESSqF5g/0.jpg)](https://youtu.be/cfJOESSqF5g "Integration of Google maps in Odoo 16 using OWL Framework")
+- **Interactive Maps**: Display locations, routes, and geographic data with Google's familiar interface
+- **Geocoding & Reverse Geocoding**: Automatically convert addresses to coordinates and vice versa
+- **Location Management**: Enhanced partner/customer location management with visual map interface
+- **Route Planning**: Optimize delivery routes and calculate distances between locations
+- **Street View Integration**: Provide immersive street-level imagery for better location context
 
+Perfect for businesses requiring reliable, widely-recognized mapping services with comprehensive global coverage.
 
-[V16 Demo instance](http://35.209.158.83:8069/)    
-[V17 Demo instance](http://35.209.158.83:8080/)    
+[![Integration of Google Maps in Odoo](https://img.youtube.com/vi/YS-4-2axcVc/0.jpg)](https://youtu.be/YS-4-2axcVc "Integration of Google Maps in Odoo")
+
+## Mapbox GL JS
+
+Mapbox GL JS integration delivers cutting-edge, customizable mapping experiences with superior performance:
+
+- **Custom Map Styling**: Create unique, branded map designs that match your business identity
+- **Advanced Visualizations**: Display complex spatial data with heatmaps, clusters, and 3D elements
+- **High-Performance Rendering**: Handle large datasets with smooth, hardware-accelerated graphics
+- **Offline Capabilities**: Support for offline map tiles and reduced data consumption
+- **Rich Data Layers**: Overlay business intelligence and analytics directly on maps
+
+Ideal for businesses needing highly customized mapping solutions and advanced geospatial analytics.
+
+[![Integration of Mapbox GL JS in Odoo](https://img.youtube.com/vi/u_OwJeUZXfM/0.jpg)](https://youtu.be/u_OwJeUZXfM "Integration of Mapbox GL JS in Odoo")
+
+## Demo
+
+[Demo instance (v.19)](http://35.209.158.83:8069/)    
 Login: guest   
 Password: guest
 
-To access this repository, please support by purchase a product on this link [https://mithnusa.odoo.com/shop/bundle-of-google-maps-addons-3](https://mithnusa.odoo.com/shop/bundle-of-google-maps-addons-3#attr=) 
+To access this repository, please support by purchase a product on this link [https://mithnusa.odoo.com/shop](https://mithnusa.odoo.com/shop)   
+
 Thank you!
